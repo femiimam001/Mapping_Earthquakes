@@ -1,1 +1,0 @@
-accessToken: API_KEY
